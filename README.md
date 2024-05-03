@@ -11,21 +11,21 @@ Un programme qui affiche "Hello, world!" lorsque vous l'exécutez.
 
 ### Exercice 2 : Calculatrice simple
 
-Un programme qui demande à l'utilisateur deux nombres, puis effectue les opérations suivantes : addition, soustraction, multiplication et division sur ces nombres, en affichant les résultats.
+Un programme qui prends en entrée deux nombres, puis effectue les opérations suivantes : addition, soustraction, multiplication et division sur ces nombres, en affichant les résultats.
 
 ### Exercice 3 : Vérification de l'âge
 
-Un programme qui demande à l'utilisateur son âge, puis affiche un message indiquant s'il est majeur ou mineur.
+Un programme qui prends en entrée à l'utilisateur son âge, puis affiche un message indiquant s'il est majeur ou mineur.
 
 ## Seconde Étape:
 
-### Exercice 4 : Calcul de la somme des nombres pairs
+### Exercice 4 : Calcul de la somme des nombres entier
 
-Un programme qui crée un tableau de nombres, puis calcule et affiche la somme des nombres pairs de ce tableau.
+Un programme qui prends en entrée un entier positif, puis retourne la somme de tous les nombres premiers avant lui.
 
 ### Exercice 5 : Conversion de température
 
-Un programme qui demande à l'utilisateur de saisir une température en degrés Celsius, puis convertit cette température en degrés Fahrenheit et l'affiche.
+Un programme qui prends en entrée une température en degrés Celsius, puis convertit cette température en degrés Fahrenheit et l'affiche.
 
 ### Exercice 6 : Calcul de la racine carrée
 

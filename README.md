@@ -1,4 +1,4 @@
-# :rocket: workshop_ruby
+# :rocket: Workshop RUBY
 ## Atelier : Introduction au Ruby ♦️
 
 **Objectif :** Apprendre les bases du langage de programmation Ruby à travers une série d'exercices pratiques.

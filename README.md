@@ -5,6 +5,10 @@
 
 ## Première Étape:
 
+### Installer Ruby
+
+https://www.ruby-lang.org/en/documentation/installation/#ruby-install
+
 ### Exercice 1 : Hello World
 
 Un programme qui affiche "Hello, world!" lorsque vous l'exécutez.

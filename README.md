@@ -23,9 +23,9 @@ Un programme qui prend en entrée l'âge de l'utilisateur puis affiche un messag
 
 ## Seconde Étape:
 
-### Exercice 4 : Calcul de la somme des nombres entier
+### Exercice 4 : Factorielle
 
-Un programme qui prend en entrée un entier positif puis retourne la somme de tous les nombres premiers avant lui.
+Un programme qui prend un nombre entier positif en entrée et renvoie sa factorielle.
 
 ### Exercice 5 : Conversion de température
 
@@ -37,9 +37,9 @@ Un programme qui prend un nombre positif en entrée et renvoie sa racine carrée
 
 ## Dernière Étape
 
-### Exercice 7 : Factorielle
+### Exercice 7 : Calcul de la somme des nombres entier
 
-Un programme qui prend un nombre entier positif en entrée et renvoie sa factorielle.
+Un programme qui prend en entrée un entier positif puis retourne la somme de tous les nombres premiers avant lui.
 
 ### Exercice 8 : Calcul de la moyenne
 

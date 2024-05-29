@@ -51,4 +51,4 @@ Un programme qui prend le nom d'un fichier en entrée et affiche son contenu.
 
 ### Exercice 10 : Tri de tableau
 
-Un programme qui prend un tableau de nombres en entrée et renvoie ce dernier trié par ordre croissant.
+Un programme qui prend un tableau de nombres et renvoie ce dernier trié par ordre croissant.

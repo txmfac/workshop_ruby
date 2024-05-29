@@ -43,7 +43,7 @@ Un programme qui prend en entrée un entier positif puis retourne la somme de to
 
 ### Exercice 8 : Calcul de la moyenne
 
-Un programme qui prend un tableau de nombres en entrée et renvoie leur moyenne.
+Un programme qui calcule la moyenne d'un tableau.
 
 ### Exercice 9 : Manipulation de fichiers
 
